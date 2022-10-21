@@ -1,0 +1,4 @@
+Install Git 
+
+pacman -S git 
+git --version 

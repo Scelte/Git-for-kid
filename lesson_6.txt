@@ -1,0 +1,17 @@
+How to ignore and restore files 
+
+Basic knowlegment:
+1. touch exmaple.txt - Untracked
+2. git add example.txt - Staged 
+3. git commit -m "comment" - Copy in Local Repository
+4. git push  - Copy Local Repository to Remote 
+
+git log -1(last)-p(what's happend) - Check the history of commits 
+
+i made a mistake 
+
+git checkout -- name.file - restore version on stage step  - after git commit - no
+git diff --staged  - i show's how log will be looks like if you will do  git commit - show diffent with staged and last commit
+
+About GitIgnore
+create hiden file - .gitignore

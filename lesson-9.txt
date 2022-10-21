@@ -1,0 +1,10 @@
+Work with remote repo with ssh key 
+
+Generation 2 keys - private and public 
+
+ssh-keygen - after you have 2 keys 
+id_rsa.pub - you need to copy to github
+
+how to change https to ssh 
+git remote -v - link with remote repo
+git remote set-url origin ssh@git... 

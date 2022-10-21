@@ -1,0 +1,19 @@
+Work with local repository
+
+git init .(path) - create local database and git start to watch on this directory
+after later command , i created a new directory - .git - data base of Git , in this place , your changes will be save . Git like a spy to this directory. 
+
+git status  - the most usefull command on Git . Branch master - it's the gold copy .
+
+Take a snapshot 
+git add *(file) - After this command , my file will be on stage status . * if you want to delete a file from stage status - git rm --cached filename
+
+git commit -m(message, it's need to be allways)"I'm Leonardo Da Vinci" - after this command , i created a snapshoot
+
+*git config --global init.defalutBranch <name>
+*git branch -m <name>
+*git commit -a
+
+
+git status add commit - BASE
+Important thing - every time when you did a commit , Git to create version of mine tracking files. 

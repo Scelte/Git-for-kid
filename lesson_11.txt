@@ -1,0 +1,20 @@
+Work with Branch
+
+Gold copy - Master(main) brach - need's to be allways working 
+Commits never doing on master 
+
+Brach - it's your spacework with all commits form master 
+Merge - link your branch with master 
+
+*create something new , allways hard then fix something 
+
+git branch - shows your branch
+gir branch name_of_branch - create a new branch
+git checkout name_of_branch - switch a branch
+git branch -d(-D-if your version not the same with master) name_of_branch - delete a branch (before you need to swith branch)
+git checkout -b name_of_branch - mix create and swith branch
+git merge fix_error - you need to be on master branch 
+
+after merge , you can to delete your fix_error branch - git branch -d fix_error
+
+

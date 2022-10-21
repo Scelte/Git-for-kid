@@ -1,0 +1,12 @@
+Restore to older version 
+
+Commit - it's snapshot , and you allway have a chance to bring back 
+
+hash of commit - copy 
+git checkout hesh - change  
+git checkout master - undo
+
+git commit --amend (without git add .) - change your commit information(message)
+
+git reset --hard HEAD~(step 1 back) ~2(stap 2 back)
+git reset --soft HEAD~(the same) - it's kill log of commits and create current verion like first

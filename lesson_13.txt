@@ -1,0 +1,12 @@
+All working process with Git and GitHub
+
+git push --set-upstream origin fix_error - push and create a branch on remote GitHub
+
+
+after that i'll need to send a message about pull request 
+
+hack - use split for GitHub GUI
+
+git push origin --delete fix_error
+
+clone - branch - change - push branch - pull request - review - merge - detele branch 

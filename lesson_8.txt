@@ -1,0 +1,8 @@
+Push our project to Remote repository - GitHub 
+
+How to git clone with https and ssh-connection
+
+git clone https://github.com .... (work with public repo)
+When you cloning repo , you dont need to git init
+
+git push - to remote , BUT a repo what you downloaded it's availabe for you just to read but if you want to wright , you need a password. -it's doesn't work . You need a tocken  

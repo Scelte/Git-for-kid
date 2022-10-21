@@ -1,0 +1,8 @@
+Configuration .gitconfig
+
+git config --global user.name "Leonardo Da Vinci"
+git config --global user.email "islamovmagomed.ua@gmail.com"
+
+git config -l :show's your configuration
+
+~ - saved config file in home directory as like '.gitconfig'
